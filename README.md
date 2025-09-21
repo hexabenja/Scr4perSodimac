@@ -15,5 +15,6 @@ Con este repositorio se pueden tomar referencias del sitio de Sodimac Chile en d
 
 Manera Número 1:
 - Ejecutar proyecto en Google Colab creando una copia del proyecto ingresando al link adjunto a la cabecera del archivo .ipynb
+
 Manera Número 2:
 - Ejecutar proyecto de manera local utilizando terminal de Python descargando archivo .ipynb
